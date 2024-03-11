@@ -1,0 +1,1 @@
+Rails project for authentication and autorization testing (using gem Devise)
